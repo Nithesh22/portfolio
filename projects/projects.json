@@ -2,8 +2,8 @@
   {
     "name": "forming assistant",
     "desc": "its created for helping to former to get more profit",
-    "image": "notystackandroid",
-    "category": "android",
+    "image": "man-holding-basket-with-vegetables.jpg",
+    "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/notystack-android"
@@ -19,7 +19,7 @@
       "category": "basicweb",
       "links": {
         "view": "#",
-        "code": "https://github.com/jigar-sable/Portfolio-Website"
+        "code": "#"
       }
     }, {
       "name": "social link profile",
